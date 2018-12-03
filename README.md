@@ -1,0 +1,2 @@
+# PillClassification
+In this project, I am trying to use single CNN to identify pills based on the shape of the pills. I have used 3 classes of different pills, round pills, capsule/oval shaped pills and polygonal shaped pills. The 3 categories and used as labels. The image dataset is taken from NIH and 1298 images were used for the project. The images were divided into training and test set and then fed into the single CNN model for training. There was 56.53% accuracy after the training of the model.
